@@ -2,6 +2,8 @@
 
 RxFunctions is a library to smooth RxJava usage by functionally composing functions.
 
+For the RxJava 2.X version please go to [RxFunctions2](https://github.com/pakoito/RxFunctions2).
+
 ## Rationale
 
 Oftentimes you want to filter an `Observable` based off several criteria, i.e. get your users above a certain age that also live in a certain city; a string that should not be null or empty; or two objects being equal and both higher than 0.
